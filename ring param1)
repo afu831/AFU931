@@ -1,0 +1,2 @@
+  public Object getAttribute(String param1) { 
+    /**@todo:Implement this com.sun.content.server.service.security.User method*/ 
