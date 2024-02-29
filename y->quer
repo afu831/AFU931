@@ -1,0 +1,7 @@
+// Set job configs
+$jobConfig = $bigQuery->query($query);
+$jobConfig->useQueryCache(false);
+$jobConfig->dryRun(true);
+
+// Extract query results
+$queryJob = $bigQuery->startJob($jobC
