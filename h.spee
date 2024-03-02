@@ -1,0 +1,11 @@
+      each.speed += inc
+ 
+def main():
+    pygame.mixer.music.play(-1)
+     
+    clock = pygame.time.Clock()
+ 
+    # 中弹图片索引
+    e1_destroy_index = 0
+    e2_destroy_index = 0
+    e3_destroy_index = 0
