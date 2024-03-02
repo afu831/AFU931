@@ -1,0 +1,14 @@
+    for i in range(num):
+        e1 = enemy.BigEnemy(bg_size)
+        group1.add(e1)
+        group2.add(e1)
+ 
+def inc_speed(target, inc):
+    for each in target:
+        each.speed += inc
+ 
+def main():
+    pygame.mixer.music.play(-1)
+     
+    clock = pygame.time.Clock()
+ 
