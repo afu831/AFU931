@@ -1,0 +1,5 @@
+			puts("Please input a number between 1 and 100: ");
+			scanf("%d",&Number);
+			printf("Your input number is %d\n",Number);
+		}while( !(Number>=1 && Number<=100) );
+		if( Number >= 90 )
