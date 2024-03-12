@@ -1,0 +1,5 @@
+		printf(" %d ",a[i]);
+	printf("\n SUM of the arry is: %d\n",sum(a,sizeof(a)/sizeof(a[0])));
+	printf("\n Press any key to quit...\n");
+	getch();
+}
