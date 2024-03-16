@@ -1,0 +1,5 @@
+i = 0
+pause = False      
+while True:
+    i += 0
+    for star in stars:
