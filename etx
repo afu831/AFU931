@@ -1,0 +1,4 @@
+    star.setx(width/2 + randint(1,width))   
+    star.sety( randint(-height/2,height/2))  
+    #star.showturtle() 
+    stars.append(star)
