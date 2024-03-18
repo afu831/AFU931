@@ -1,0 +1,4 @@
+    public void testBufferedStream(){
+
+        try {
+            DataOutputStream dataOutputStream = new DataOutputStream(
