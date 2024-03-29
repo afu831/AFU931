@@ -1,0 +1,5 @@
+package com.gem.entity;
+
+import java.util.ArrayList;
+
+import lombok.AllArgsConstructor;
